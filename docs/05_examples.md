@@ -63,19 +63,19 @@ ela na bano.
 oto na meli.
 音は良い。
 
-mi mita hana.
+mi kano hana.
 私は花を見る。
 
-lu kiku oto.
+lu lito oto.
 その人は音を聞く。
 
 mi omo bo yume.
 私は夢について考える。
 
-mi nomu ata.
+mi dinu ata.
 私は水を飲む。
 
-sade in noka.
+duma in noka.
 影は夜の中にある。
 
 sede na meli.
@@ -110,7 +110,7 @@ mi nu selo sima.
 yu nu suki noka.
 あなたは夜が好きではない。
 
-lu nu kiku oto.
+lu nu lito oto.
 その人は音を聞かない。
 
 yu ta nu sena koda.
@@ -337,13 +337,13 @@ luma kita fo data.
 ```
 
 ```text
-sito bi mi na meli.
+teto bi mi na meli.
 私による文は良い。
 
 koda bi meka na nava.
 機械によるコードは新しい。
 
-mi pako sito bi meka.
+mi pako teto bi meka.
 私は機械で文を作る。
 ```
 
@@ -351,7 +351,7 @@ mi pako sito bi meka.
 mi talo bo koda.
 私はコードについて話す。
 
-mi kaku sito bo sede.
+mi tebo teto bo sede.
 私は学習についての文を書く。
 
 mi omo bo yume.
@@ -402,10 +402,10 @@ to loka lu golo?
 lu golo to tomo.
 その人は家へ行きます。
 
-ka lu ta kiku oto?
+ka lu ta lito oto?
 その人は音を聞きましたか？
 
-no, lu ta nu kiku oto.
+no, lu ta nu lito oto.
 いいえ、その人は音を聞きませんでした。
 ```
 
@@ -665,6 +665,6 @@ fudeyo mi fu pako buko.
 tadeyo lu ta kita fo tomo.
 昨日、その人は家から来た。
 
-nola mi pako sito.
+tano mi pako teto.
 今、私は文を作る。
 ```

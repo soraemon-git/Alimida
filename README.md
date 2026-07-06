@@ -14,7 +14,7 @@
 
 - 発音仕様: v0.1
 - 基本語彙: v1.1（100+α）
-- 文法仕様: v1.1 draft
+- 文法仕様: v1.1
 
 ## 読む順番
 
@@ -23,7 +23,7 @@
 3. [Phonology / Pronunciation](docs/02_phonology.md)
 4. [Grammar](docs/03_grammar.md)
 5. [Core Vocabulary 100+α](docs/04_vocabulary_core100.md)
-6. [Basic Systems Vocabulary](docs/05_vocabulary_basic_systems.md)
-7. [Examples](docs/ex_examples.md)
+6. [Basic Systems Vocabulary](docs/06_vocabulary_basic_systems.md)
+7. [Examples](docs/05_examples.md)
 
 TODO・未決定事項は [TODO / Open Issues](docs/91_todo.md) に集約します。旧文書は [archive](archive/) に保管し、最新版仕様としては扱いません。

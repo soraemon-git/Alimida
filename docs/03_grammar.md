@@ -11,7 +11,7 @@
 mi sena koda.
 私はコードを学ぶ。
 
-lu kiku oto.
+lu lito oto.
 その人は音を聞く。
 ```
 
@@ -152,7 +152,7 @@ mi pako koda eza.
 meka weno to data fasa.
 機械がデータに速く接続する。
 
-lu kiku oto meli.
+lu lito oto meli.
 その人は音をよく聞く。
 ```
 
@@ -396,7 +396,7 @@ mi sena koda.
 mi pako buko.
 私は本を作る。
 
-lu kiku oto.
+lu lito oto.
 その人は音を聞く。
 
 yu yuta koda.
@@ -506,7 +506,7 @@ ela na bano.
 mi nu selo sima.
 私は意味を知らない。
 
-lu nu kiku oto.
+lu nu lito oto.
 その人は音を聞かない。
 
 yu nu suki noka.
@@ -582,7 +582,7 @@ ka yu fu weno to data?
 mi ta nu sena koda.
 私はコードを学ばなかった。
 
-lu ta nu kiku oto.
+lu ta nu lito oto.
 その人は音を聞かなかった。
 
 mi fu nu pako buko.
@@ -922,7 +922,7 @@ mi sena koda.
 mi pako buko.
 私は本を作る。
 
-lu kiku oto.
+lu lito oto.
 その人は音を聞く。
 
 mi lisu buko.
@@ -1033,16 +1033,16 @@ B による A / B で A
 例:
 
 ```text
-sito bi mi
+teto bi mi
 私による文
 
 koda bi meka
 機械によるコード
 
-mi pako sito bi meka.
+mi pako teto bi meka.
 私は機械で文を作る。
 
-sito bi AI na meli.
+teto bi AI na meli.
 AIによる文は良い。
 ```
 
@@ -1065,13 +1065,13 @@ B についての A
 mi talo bo koda.
 私はコードについて話す。
 
-mi kaku sito bo sede.
+mi tebo teto bo sede.
 私は学習についての文を書く。
 
 mi omo bo yume.
 私は夢について考える。
 
-sito bo sede na meli.
+teto bo sede na meli.
 学習についての文は良い。
 
 buko bo AI na nava.

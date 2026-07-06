@@ -52,6 +52,18 @@
 
 ### 変更
 
+- v1.2 前の語彙調整として、一般基礎語の一部を置換
+  - `mita` → `kano`
+  - `kiku` → `lito`
+  - `kaku` → `tebo`
+  - `nomu` → `dinu`
+  - `asa` → `mona`
+  - `nola` → `tano`
+  - `sito` → `teto`
+  - `sade` → `duma`
+- `hana` の意味を「花」に整理
+- `kasa` の意味を「傘」に整理
+- `neko` の意味を「猫」に整理
 - コア語彙から [06_vocabulary_basic_systems.md](./06_vocabulary_basic_systems.md) を分離管理先として参照するように変更
 - `de` の用法を所有・所属に限定
 - `de` から「〜から」「〜によって」の意味を分離
