@@ -620,7 +620,7 @@ mi golo to tomo feni.
 mi kita fo tomo feni.
 私は家の前から来る。
 
-meka in tomo bako.
+meka in tomo baku.
 機械は家の後ろにある。
 ```
 
