@@ -300,4 +300,4 @@ mi = Mi = MI
 ka yu sena koda?
 ```
 
-未決定事項は [91_todo.md](./91_todo.md) を参照する。
+今後の整理項目は [91_todo.md](./91_todo.md) を参照する。

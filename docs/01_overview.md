@@ -69,7 +69,7 @@ Alimida では、日本語由来語を完全には排除しない。ただし、
 - 基本体系語彙: [06_vocabulary_basic_systems.md](./06_vocabulary_basic_systems.md)
 - 例文: [05_examples.md](./05_examples.md)
 - 決定事項: [90_decisions.md](./90_decisions.md)
-- 未決定事項: [91_todo.md](./91_todo.md)
+- ロードマップ: [91_todo.md](./91_todo.md)
 - 変更履歴: [92_changelog.md](./92_changelog.md)
 
 旧文書は `archive/` に保管し、最新版仕様としては扱わない。

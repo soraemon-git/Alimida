@@ -126,8 +126,8 @@ mi fu nu pako buko.
 waka yu pako?
 あなたは何を作りますか？
 
-to homa weno yu?
-誰があなたに接続しますか？
+homa weno to data?
+誰がデータに接続しますか？
 
 to loka lu golo?
 その人はどこへ行きますか？

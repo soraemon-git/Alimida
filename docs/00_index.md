@@ -12,7 +12,7 @@
 ## プロジェクト管理
 
 - [決定事項](./90_decisions.md)
-- [TODO / 未決事項](./91_todo.md)
+- [TODO / Roadmap](./91_todo.md)
 - [変更履歴](./92_changelog.md)
 
 ## アーカイブ
