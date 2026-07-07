@@ -26,4 +26,14 @@
 6. [Basic Systems Vocabulary](docs/06_vocabulary_basic_systems.md)
 7. [Examples](docs/05_examples.md)
 
+## 学習教材
+
+v1.2 作業では、仕様書に加えて、教材用の例文・レッスン・練習問題を整備します。
+
+- [Learning Examples](docs/10_learning_examples.md)
+- [Lessons](docs/11_lessons.md)
+- [Vocabulary Levels](docs/12_vocabulary_levels.md)
+- [Practice](docs/13_practice.md)
+- [Relation Words](docs/14_relation_words.md)
+
 TODO・未決定事項は [TODO / Open Issues](docs/91_todo.md) に集約します。旧文書は [archive](archive/) に保管し、最新版仕様としては扱いません。

@@ -1,5 +1,24 @@
 # 変更履歴
 
+## v1.2.0
+
+### 追加
+
+- [10_learning_examples.md](./10_learning_examples.md) を追加し、教材用の標準例文100本を整理
+- [11_lessons.md](./11_lessons.md) を追加し、文法項目ごとのミニレッスンを整理
+- [12_vocabulary_levels.md](./12_vocabulary_levels.md) を追加し、教材用の語彙レベル表を整理
+- [13_practice.md](./13_practice.md) を追加し、標準形・許容形・非標準形の練習問題を整理
+- [14_relation_words.md](./14_relation_words.md) を追加し、関係語の教材用一覧表を整理
+
+### 変更
+
+- [00_index.md](./00_index.md) に学習教材セクションを追加
+- [05_examples.md](./05_examples.md) を仕様確認用の例文集として位置づけ、教材用100本への参照を追加
+- [03_grammar.md](./03_grammar.md) と [05_examples.md](./05_examples.md) の例文で、現行語彙表にない `sima` を使わない形へ調整
+- [91_todo.md](./91_todo.md) を v1.2 教材化作業の結果に合わせて更新
+- [93_roadmap.md](./93_roadmap.md) の v1.2 範囲を、仕様追加ではなく教材化中心として整理
+- [README.md](../README.md) に学習教材への導線を追加
+
 ## v1.1
 
 ### 追加
