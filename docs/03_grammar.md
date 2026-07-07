@@ -503,8 +503,8 @@ ela na bano.
 `nu` は否定を表す文法マーカーである。否定したい述語の前に置くことを基本とする。
 
 ```text
-mi nu selo sima.
-私は意味を知らない。
+mi nu selo koda.
+私はコードを知らない。
 
 lu nu lito oto.
 その人は音を聞かない。

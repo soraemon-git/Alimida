@@ -1,5 +1,7 @@
 # 例文
 
+この文書は、仕様確認用の例文集である。教材用の標準例文100本は [10_learning_examples.md](./10_learning_examples.md) に分けて管理する。
+
 ## 1. 自己紹介
 
 ```text
@@ -28,8 +30,8 @@ mi sena koda.
 ka yu sena sede?
 あなたは学習をしますか？
 
-ka yu selo sima?
-あなたは意味を知っていますか？
+ka yu selo koda?
+あなたはコードを知っていますか？
 
 waka yu sena?
 あなたは何を学びますか？
@@ -104,8 +106,8 @@ ka yu fu weno to data?
 ## 6. 否定
 
 ```text
-mi nu selo sima.
-私は意味を知らない。
+mi nu selo koda.
+私はコードを知らない。
 
 yu nu suki noka.
 あなたは夜が好きではない。
